@@ -1,6 +1,6 @@
 # Sony X9000H 国行 AirPlay 兼容移植
 
-当前为私有仓库，源码、文档和 Release 附件均仅对获授权的访问者可见。
+源码与文档公开提供；最终 APK 位于本仓库 Releases。
 
 将 Sony 海外固件中的原生 AirPlay 接收器适配到国行 X9000H。本项目是非官方个人兼容实验，与 Sony、Apple 无隶属或授权关系。
 
